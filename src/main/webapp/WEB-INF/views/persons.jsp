@@ -18,7 +18,7 @@
     <table class="table table-stripped">
         <tr>
             <th>STT</th>
-            <th>Full name</th>
+            <th>Full-name</th>
             <th>Address</th>
             <th>Phone</th>
         </tr>
